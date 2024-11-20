@@ -1,0 +1,5 @@
+* filter=git-crypt diff=git-crypt
+
+
+.git/** -filter
+.gitattributes -filter
